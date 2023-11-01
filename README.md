@@ -17,6 +17,7 @@ This was a group project of 2 students, (myself and my colleague Ana).
 
   
   Game rules: 
+  
     * Choose between even and odds
 
     * Choose a number of fingers between 1 and 10
