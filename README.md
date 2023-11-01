@@ -13,17 +13,9 @@ between 1 and 10. These were the main rules it was also requested to meer a spec
 
 This was a group project of 2 students, (myself and my colleague Ana).
 
-########################  Welcome to our:  #################################
-   
-  #     # ####### ######  ######     #        #####     #    #     # ####### 
-  ##   ## #     # #     # #     #   # #      #     #   # #   ##   ## #       
-  # # # # #     # #     # #     #  #   #     #        #   #  # # # # #       
-  #  #  # #     # ######  ######  #     #    #  #### #     # #  #  # #####   
-  #     # #     # #   #   #   #   #######    #     # ####### #     # #       
-  #     # #     # #    #  #    #  #     #    #     # #     # #     # #       
-  #     # ####### #     # #     # #     #     #####  #     # #     # #######
-  --------------------------------------------------------------------------
-  rules: 
+
+  
+  Game rules: 
     * Choose between even and odds
     * Choose a number of fingers between 1 and 10
     * If the total is an odd number, odds win and vice versa
@@ -31,5 +23,5 @@ This was a group project of 2 students, (myself and my colleague Ana).
     * Who chooses the closest number to the total fingers wins 1 extra point
     * The winner of the game is the first player to reach at least 6 points
 
- ############################################################################                                                                           
+                                                                          
  by: Anabela Faria & Ana Ferreira                       EM108__2023
