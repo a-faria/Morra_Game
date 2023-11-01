@@ -4,6 +4,7 @@ Morra - Odds and Evens game
 This project was made for a college assignment for the module: Software Development for Engineers.
 “Morra” is a hand game usually played for entertainment or to settle a disagreement.
 The aim is to develop a variation of this traditional game using Python and to follow the game rules and assignment requirements.
+The game doesn't have a graphical interface as it's meant to run in the terminal.
 
 Created a program to allow a user to repeatedly play the game “Morra Odds and
 Evens” with a computer. At the beginning of each game the user will be prompted to
