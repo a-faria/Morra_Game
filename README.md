@@ -13,8 +13,10 @@ the game the user must decide the number of fingers to show (i.e. between 1 and 
 Similarly, in each round of the game the computer will randomly pick one number
 between 1 and 10. These were the main rules it was also requested to meet a specific score system.
 
-This was a group project of 2 students, (myself and my colleague Ana).
 
+![image](https://github.com/a-faria/Morra_Game/assets/122120022/549a5854-3d29-469e-a9fa-cda3e431ae02)
+
+![image](https://github.com/a-faria/Morra_Game/assets/122120022/65d8ccbd-1d49-4584-8a50-c177a07911b8)
 
   
   Game rules: 
